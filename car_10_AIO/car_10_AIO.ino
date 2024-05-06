@@ -22,7 +22,7 @@ String flag = "NONE";
 float leftOffset = 1.0;
 float rightOffset = 1.0;
 
-float rotateRatio = 0.85;
+float rotateRatio = 1.0;
 
 void setup() {
   Serial.begin(9600);
